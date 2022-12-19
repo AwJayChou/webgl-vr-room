@@ -2,7 +2,11 @@
 
 效果
 
-![image]()
+![image](https://github.com/AwJayChou/webgl-vr-room/blob/main/images/room1.jpg)
+
+![image](https://github.com/AwJayChou/webgl-vr-room/blob/main/images/room2.jpg)
+
+![image](https://github.com/AwJayChou/webgl-vr-room/blob/main/images/room3.jpg)
 
 
 ### 启动
