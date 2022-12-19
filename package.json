@@ -1,0 +1,16 @@
+{
+  "name": "webgl-vr-room",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
